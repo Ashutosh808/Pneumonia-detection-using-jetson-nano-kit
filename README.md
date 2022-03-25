@@ -19,8 +19,7 @@ This project detects Pneumonia of patient with the help of X-ray images. We used
 ## Attributions
 
 ### Using [@dusty-nv's](https://github.com/dusty-nv/) Jetson inference (https://github.com/dusty-nv/jetson-inference)
-### Using [@THEGURUJ1's](https://github.com/THEGURUJ1) Method and steps in building this project. we are taking reference of [THIS PROJECT](https://github.com/THEGURUJ1/AI-for-Healthcare-Project-using-NVIDIA-Jetson-Nano-2GB-Developer-kit)
-### Using this dataset
+
 ### https://www.kaggle.com/pcbreviglieri/pneumonia-xray-images
 
 ## Accessories & Resources
