@@ -26,3 +26,4 @@ Datasets: https://www.kaggle.com/pcbreviglieri/pneumonia-xray-images <br />
 # [Running Pre-build Project](https://github.com/THEGURUJ1/AI-for-Healthcare-Project-using-NVIDIA-Jetson-Nano-2GB-Developer-kit/blob/main/Running%20Pre-Build%20Project.md) for this just replace THEGURUJ1's Data & model from this Repository or this drive link:-  https://drive.google.com/file/d/1-YRNFdaoKOEfyW8RhJgAHyz2RqVrL9KJ/view?usp=drive_web
 
 # Thank you!
+Running Pre-Build Project.md
