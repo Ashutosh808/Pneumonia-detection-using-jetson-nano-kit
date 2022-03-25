@@ -1,9 +1,4 @@
-[3:30 pm, 12/03/2022] Ashutosh Mishra: Air filter
-Break shoe
-Spocket  rubber
-Socker bush
-[3:34 pm, 12/03/2022] Ashutosh Mishra: Liquid gun
-[3:56 pm, 25/03/2022] Meet Bhai: # Pneumonia-detection-using-jetson-nano-kit
+ # Pneumonia-detection-using-jetson-nano-kit
 This project detects Pneumonia of patient with the help of X-ray images. We used Deep learning concept in detection of pneumonia
 ## Attributions
 ### Using [@dusty-nv's](https://github.com/dusty-nv/) Jetson inference (https://github.com/dusty-nv/jetson-inference)
