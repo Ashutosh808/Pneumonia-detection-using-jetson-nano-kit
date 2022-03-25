@@ -1,4 +1,4 @@
- # Pneumonia-detection-using-jetson-nano-kit
+ # Pneumonia-detection-Project-using-NVIDIA-Jetson-Nano-2GB-Developer-kit
 This project detects Pneumonia of patient with the help of X-ray images. We used Deep learning concept in detection of pneumonia
 ## Attributions
 ### Using [@dusty-nv's](https://github.com/dusty-nv/) Jetson inference (https://github.com/dusty-nv/jetson-inference)
