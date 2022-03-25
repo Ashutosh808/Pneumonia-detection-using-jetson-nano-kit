@@ -21,9 +21,8 @@ Jetson-Inference With Docker File: https://github.com/dusty-nv/jetson-inference 
 Datasets: https://www.kaggle.com/pcbreviglieri/pneumonia-xray-images <br />
 
 # Headings
-## Follow this steps given by [@THEGURUJ1's](https://github.com/THEGURUJ1) to build Project. 
+
 # [Building Project from scratch](https://github.com/THEGURUJ1/AI-for-Healthcare-Project-using-NVIDIA-Jetson-Nano-2GB-Developer-kit/blob/main/Building%20Project%20from%20scratch.md)
 # [Running Pre-build Project](https://github.com/Ashutosh808/Pneumonia-detection-using-jetson-nano-kit/blob/main/Building%20Project%20from%20scratch.md )
 
 # Thank you!
-Running Pre-Build Project.md
